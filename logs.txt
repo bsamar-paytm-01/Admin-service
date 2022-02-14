@@ -1,0 +1,57 @@
+[2022-02-14T09:56:05.287Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T09:56:41.793Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T09:58:59.995Z] [INFO] [bb539180-8d7c-11ec-af8a-f52f55865597] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T09:59:38.434Z] [INFO] [d23d5a20-8d7c-11ec-af8a-f52f55865597] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:01:10.236Z] [INFO] [08f512b0-8d7d-11ec-af8a-f52f55865597] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:02:40.996Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:02:44.124Z] [INFO] [40eb17a0-8d7d-11ec-8d28-b3ba97e202b5] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:02:51.823Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:02:55.940Z] [INFO] [47f61220-8d7d-11ec-b3c9-b72a2a288408] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:03:43.633Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:04:06.177Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:04:10.038Z] [INFO] [74208740-8d7d-11ec-865e-cbfa6a289d9f] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:04:10.045Z] [INFO] [74208740-8d7d-11ec-865e-cbfa6a289d9f] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:04:55.716Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:04:58.429Z] [INFO] [90f868b0-8d7d-11ec-b6bc-d32ba2a3a396] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:04:58.475Z] [INFO] [90f868b0-8d7d-11ec-b6bc-d32ba2a3a396] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:05:22.050Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:05:36.311Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:08:37.065Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:14:22.449Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:31:07.412Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:32:59.491Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:34:09.626Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:35:20.168Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:40:14.424Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:40:44.123Z] [INFO] [8fe77ba0-8d82-11ec-b1c5-bb8cbecbdaf2] [SERVER] METHOD: [POST] - URL: [/admin/user] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:40:44.170Z] [INFO] [8fe77ba0-8d82-11ec-b1c5-bb8cbecbdaf2] [SERVER] METHOD: [POST] - URL: [/user] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:42:27.609Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:42:58.489Z] [INFO] [dffdcd60-8d82-11ec-b7d2-231452ebe753] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:42:58.605Z] [INFO] [dffdcd60-8d82-11ec-b7d2-231452ebe753] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:43:54.239Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:51:31.932Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:53:32.576Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:54:06.072Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:56:01.915Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:57:21.518Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:59:17.930Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:59:31.596Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:01:26.893Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:05:03.889Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:05:49.629Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:06:06.438Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:07:43.208Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:08:03.936Z] [INFO] [614f16f0-8d86-11ec-9667-732c6e69504d] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:08:04.009Z] [INFO] [614f16f0-8d86-11ec-9667-732c6e69504d] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:08:16.968Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:09:06.132Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:09:16.095Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:09:19.343Z] [INFO] [8e40aca0-8d86-11ec-8de3-199129ec54a0] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:09:19.417Z] [INFO] [8e40aca0-8d86-11ec-8de3-199129ec54a0] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:09:28.464Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:10:42.233Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:12:19.895Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:12:23.541Z] [INFO] [fc0b8430-8d86-11ec-aaa6-830489ce3eba] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:12:23.631Z] [INFO] [fc0b8430-8d86-11ec-aaa6-830489ce3eba] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:12:34.320Z] [INFO] [02789100-8d87-11ec-aaa6-830489ce3eba] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:12:34.334Z] [INFO] [02789100-8d87-11ec-aaa6-830489ce3eba] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [404] - IP: [::ffff:127.0.0.1] 
