@@ -1,0 +1,404 @@
+[2022-02-14T09:56:05.287Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T09:56:41.793Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T09:58:59.995Z] [INFO] [bb539180-8d7c-11ec-af8a-f52f55865597] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T09:59:38.434Z] [INFO] [d23d5a20-8d7c-11ec-af8a-f52f55865597] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:01:10.236Z] [INFO] [08f512b0-8d7d-11ec-af8a-f52f55865597] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:02:40.996Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:02:44.124Z] [INFO] [40eb17a0-8d7d-11ec-8d28-b3ba97e202b5] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:02:51.823Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:02:55.940Z] [INFO] [47f61220-8d7d-11ec-b3c9-b72a2a288408] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:03:43.633Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:04:06.177Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:04:10.038Z] [INFO] [74208740-8d7d-11ec-865e-cbfa6a289d9f] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:04:10.045Z] [INFO] [74208740-8d7d-11ec-865e-cbfa6a289d9f] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:04:55.716Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:04:58.429Z] [INFO] [90f868b0-8d7d-11ec-b6bc-d32ba2a3a396] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:04:58.475Z] [INFO] [90f868b0-8d7d-11ec-b6bc-d32ba2a3a396] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:05:22.050Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:05:36.311Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:08:37.065Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:14:22.449Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:31:07.412Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:32:59.491Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:34:09.626Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:35:20.168Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:40:14.424Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:40:44.123Z] [INFO] [8fe77ba0-8d82-11ec-b1c5-bb8cbecbdaf2] [SERVER] METHOD: [POST] - URL: [/admin/user] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:40:44.170Z] [INFO] [8fe77ba0-8d82-11ec-b1c5-bb8cbecbdaf2] [SERVER] METHOD: [POST] - URL: [/user] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:42:27.609Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:42:58.489Z] [INFO] [dffdcd60-8d82-11ec-b7d2-231452ebe753] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:42:58.605Z] [INFO] [dffdcd60-8d82-11ec-b7d2-231452ebe753] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T10:43:54.239Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:51:31.932Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:53:32.576Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:54:06.072Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:56:01.915Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:57:21.518Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:59:17.930Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T10:59:31.596Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:01:26.893Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:05:03.889Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:05:49.629Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:06:06.438Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:07:43.208Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:08:03.936Z] [INFO] [614f16f0-8d86-11ec-9667-732c6e69504d] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:08:04.009Z] [INFO] [614f16f0-8d86-11ec-9667-732c6e69504d] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:08:16.968Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:09:06.132Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:09:16.095Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:09:19.343Z] [INFO] [8e40aca0-8d86-11ec-8de3-199129ec54a0] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:09:19.417Z] [INFO] [8e40aca0-8d86-11ec-8de3-199129ec54a0] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:09:28.464Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:10:42.233Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:12:19.895Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-14T11:12:23.541Z] [INFO] [fc0b8430-8d86-11ec-aaa6-830489ce3eba] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:12:23.631Z] [INFO] [fc0b8430-8d86-11ec-aaa6-830489ce3eba] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:12:34.320Z] [INFO] [02789100-8d87-11ec-aaa6-830489ce3eba] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-14T11:12:34.334Z] [INFO] [02789100-8d87-11ec-aaa6-830489ce3eba] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [404] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:05:00.971Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:05:25.712Z] [INFO] [a657fee0-8e2d-11ec-9cbd-8ff237945654] [SERVER] METHOD: [POST] - URL: [/admin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:05:25.741Z] [INFO] [a657fee0-8e2d-11ec-9cbd-8ff237945654] [SERVER] METHOD: [POST] - URL: [/admin] - STATUS: [404] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:06:27.162Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:06:30.482Z] [INFO] [ccf31d00-8e2d-11ec-8d54-f5b186e226ae] [SERVER] METHOD: [POST] - URL: [/admin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:06:30.509Z] [INFO] [ccf31d00-8e2d-11ec-8d54-f5b186e226ae] [SERVER] METHOD: [POST] - URL: [/admin] - STATUS: [404] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:08:36.554Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:08:40.016Z] [INFO] [1a286ee0-8e2e-11ec-bb28-abb0860060e6] [SERVER] METHOD: [POST] - URL: [/admin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:08:40.051Z] [INFO] [1a286ee0-8e2e-11ec-bb28-abb0860060e6] [SERVER] METHOD: [POST] - URL: [/admin] - STATUS: [404] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:09:20.839Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:10:27.074Z] [INFO] [59f85710-8e2e-11ec-886b-25550a24a9d4] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:10:27.108Z] [INFO] [59f85710-8e2e-11ec-886b-25550a24a9d4] [SERVER] METHOD: [POST] - URL: [/adminRegister] - STATUS: [307] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:10:27.188Z] [INFO] [5a09bc30-8e2e-11ec-886b-25550a24a9d4] [SERVER] METHOD: [POST] - URL: [/admin/user] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:10:27.218Z] [INFO] [5a09bc30-8e2e-11ec-886b-25550a24a9d4] [SERVER] METHOD: [POST] - URL: [/user] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:14:17.052Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:14:24.146Z] [INFO] [e7468100-8e2e-11ec-a9bf-69a0bb2dec90] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:14:24.167Z] [INFO] [e7468100-8e2e-11ec-a9bf-69a0bb2dec90] [SERVER] METHOD: [POST] - URL: [/adminRegister] - STATUS: [307] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:14:39.265Z] [INFO] [f049c910-8e2e-11ec-a9bf-69a0bb2dec90] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:14:39.271Z] [INFO] [f049c910-8e2e-11ec-a9bf-69a0bb2dec90] [SERVER] METHOD: [POST] - URL: [/adminRegister] - STATUS: [307] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:19:30.986Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:22:12.112Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:29:13.043Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:35:23.886Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:36:12.355Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:36:52.855Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:37:40.268Z] [INFO] [276dd0a0-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:37:40.372Z] [INFO] [276dd0a0-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:40:46.962Z] [INFO] [96b50f00-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:40:46.973Z] [INFO] [96b50f00-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/adminRegister] - STATUS: [307] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:40:47.011Z] [INFO] [96bcb020-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/admin/user] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:40:47.032Z] [INFO] [96bcb020-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/user] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:41:28.154Z] [INFO] [af42c3a0-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:41:28.207Z] [INFO] [af42c3a0-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:42:21.571Z] [INFO] [cf196620-8e32-11ec-b660-67700adcdc94] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:43:32.487Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:43:35.371Z] [INFO] [fb163b90-8e32-11ec-a1a9-2b5a121467e7] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:43:35.424Z] [INFO] [fb163b90-8e32-11ec-a1a9-2b5a121467e7] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:43:41.335Z] [INFO] [fea46b60-8e32-11ec-a1a9-2b5a121467e7] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:43:41.355Z] [INFO] [fea46b60-8e32-11ec-a1a9-2b5a121467e7] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:43:49.026Z] [INFO] [033a2020-8e33-11ec-a1a9-2b5a121467e7] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:43:49.052Z] [INFO] [033a2020-8e33-11ec-a1a9-2b5a121467e7] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:44:05.696Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:44:55.637Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:44:58.236Z] [INFO] [2c7a6da0-8e33-11ec-9e83-079293498415] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:44:58.294Z] [INFO] [2c7a6da0-8e33-11ec-9e83-079293498415] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:45:44.585Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:45:47.949Z] [INFO] [4a1c07b0-8e33-11ec-893c-6900069d91f3] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:45:47.992Z] [INFO] [4a1c07b0-8e33-11ec-893c-6900069d91f3] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:46:00.150Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:46:02.498Z] [INFO] [52c7b9e0-8e33-11ec-a2e7-995e8c320415] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:46:02.540Z] [INFO] [52c7b9e0-8e33-11ec-a2e7-995e8c320415] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:47:42.057Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:47:48.716Z] [INFO] [92179ca0-8e33-11ec-9e47-d7b2339213b8] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:47:48.770Z] [INFO] [92179ca0-8e33-11ec-9e47-d7b2339213b8] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:48:20.826Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:48:23.800Z] [INFO] [a7006520-8e33-11ec-96b0-8f928b8a180a] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:48:23.852Z] [INFO] [a7006520-8e33-11ec-96b0-8f928b8a180a] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:48:47.569Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:48:48.609Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:48:51.712Z] [INFO] [b7a3e2d0-8e33-11ec-9338-73e026f6b247] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:48:51.753Z] [INFO] [b7a3e2d0-8e33-11ec-9338-73e026f6b247] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:49:09.205Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:49:10.801Z] [INFO] [c304c9f0-8e33-11ec-bc86-0d05479faecb] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:49:10.839Z] [INFO] [c304c9f0-8e33-11ec-bc86-0d05479faecb] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:49:34.437Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T07:49:38.493Z] [INFO] [d38640b0-8e33-11ec-84be-0b3b3333a9dc] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:49:38.543Z] [INFO] [d38640b0-8e33-11ec-84be-0b3b3333a9dc] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:49:47.857Z] [INFO] [d91b15f0-8e33-11ec-84be-0b3b3333a9dc] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:49:47.900Z] [INFO] [d91b15f0-8e33-11ec-84be-0b3b3333a9dc] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:49:48.432Z] [INFO] [d9732100-8e33-11ec-84be-0b3b3333a9dc] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T07:49:48.459Z] [INFO] [d9732100-8e33-11ec-84be-0b3b3333a9dc] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:01:22.974Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:20:51.710Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:20:56.928Z] [INFO] [3328afe0-8e38-11ec-bacb-4108b4d1830b] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:20:56.966Z] [INFO] [3328afe0-8e38-11ec-bacb-4108b4d1830b] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:21:32.766Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:21:35.613Z] [INFO] [4a37b3c0-8e38-11ec-aa1c-ed96bc561511] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:21:35.655Z] [INFO] [4a37b3c0-8e38-11ec-aa1c-ed96bc561511] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:22:10.958Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:22:14.468Z] [INFO] [61603310-8e38-11ec-a0a0-f1defad3afd8] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:22:14.524Z] [INFO] [61603310-8e38-11ec-a0a0-f1defad3afd8] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:24:51.674Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:25:03.466Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:25:23.200Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:29:40.491Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:30:17.248Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:31:01.767Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:43:29.581Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:45:09.087Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:45:10.438Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:45:19.647Z] [INFO] [9b01e4d0-8e3b-11ec-8b80-27f4818f4e7e] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:45:19.680Z] [INFO] [9b01e4d0-8e3b-11ec-8b80-27f4818f4e7e] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:45:47.831Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:46:05.414Z] [INFO] [b6496240-8e3b-11ec-bab2-1925613580ef] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:46:05.440Z] [INFO] [b6496240-8e3b-11ec-bab2-1925613580ef] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:46:17.325Z] [INFO] [bd6302c0-8e3b-11ec-bab2-1925613580ef] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:46:17.331Z] [INFO] [bd6302c0-8e3b-11ec-bab2-1925613580ef] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:46:18.530Z] [INFO] [be1ae110-8e3b-11ec-bab2-1925613580ef] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:46:18.540Z] [INFO] [be1ae110-8e3b-11ec-bab2-1925613580ef] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:46:19.338Z] [INFO] [be962b90-8e3b-11ec-bab2-1925613580ef] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:46:19.341Z] [INFO] [be962b90-8e3b-11ec-bab2-1925613580ef] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:47:22.440Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:47:25.193Z] [INFO] [e5d6b170-8e3b-11ec-a05d-7b7adfff9bb1] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:47:25.221Z] [INFO] [e5d6b170-8e3b-11ec-a05d-7b7adfff9bb1] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:48:37.729Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:48:38.747Z] [INFO] [11ae4ba0-8e3c-11ec-84e8-6772612b8de7] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:48:38.767Z] [INFO] [11ae4ba0-8e3c-11ec-84e8-6772612b8de7] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:52:33.639Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:52:39.383Z] [INFO] [a11c4850-8e3c-11ec-b3e4-a39f93de14fc] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:52:39.404Z] [INFO] [a11c4850-8e3c-11ec-b3e4-a39f93de14fc] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:55:20.892Z] [INFO] [016099a0-8e3d-11ec-b3e4-a39f93de14fc] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:55:20.908Z] [INFO] [016099a0-8e3d-11ec-b3e4-a39f93de14fc] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:56:44.786Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T08:56:47.563Z] [INFO] [35098b90-8e3d-11ec-885a-fb8d38e27344] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T08:56:47.583Z] [INFO] [35098b90-8e3d-11ec-885a-fb8d38e27344] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:11:12.989Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:11:19.398Z] [INFO] [3cb10240-8e3f-11ec-bdd6-9ff3c0523ccc] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:11:19.424Z] [INFO] [3cb10240-8e3f-11ec-bdd6-9ff3c0523ccc] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:12:24.207Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:12:27.083Z] [INFO] [65089d70-8e3f-11ec-8e91-93836101d57b] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:12:27.112Z] [INFO] [65089d70-8e3f-11ec-8e91-93836101d57b] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:12:56.119Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:13:05.014Z] [INFO] [7ba4e250-8e3f-11ec-b83b-8dfcbd0a5d52] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:13:05.038Z] [INFO] [7ba4e250-8e3f-11ec-b83b-8dfcbd0a5d52] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:13:39.938Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:14:43.554Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:14:46.201Z] [INFO] [b7f47d60-8e3f-11ec-b2e8-eb9ee2d6455c] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:14:46.227Z] [INFO] [b7f47d60-8e3f-11ec-b2e8-eb9ee2d6455c] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:16:16.042Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:16:18.608Z] [INFO] [ef08d4e0-8e3f-11ec-99aa-19d04288fc28] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:16:18.630Z] [INFO] [ef08d4e0-8e3f-11ec-99aa-19d04288fc28] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:17:00.497Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:17:04.469Z] [INFO] [0a5ed140-8e40-11ec-9800-49ad963894a2] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:17:04.493Z] [INFO] [0a5ed140-8e40-11ec-9800-49ad963894a2] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:29:42.859Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:33:12.488Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:39:16.229Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:42:28.733Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:42:32.270Z] [INFO] [990298c0-8e43-11ec-bf64-2552575d7833] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:42:32.295Z] [INFO] [990298c0-8e43-11ec-bf64-2552575d7833] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [401] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:42:58.396Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:43:40.456Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:44:18.631Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:44:45.459Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:45:56.961Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:46:30.156Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:46:40.421Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T09:46:47.601Z] [INFO] [3132b5d0-8e44-11ec-a2e5-fb84fdecb883] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:46:47.622Z] [INFO] [3132b5d0-8e44-11ec-a2e5-fb84fdecb883] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [401] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:47:04.131Z] [INFO] [3b0d7220-8e44-11ec-a2e5-fb84fdecb883] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:47:04.177Z] [INFO] [3b0d7220-8e44-11ec-a2e5-fb84fdecb883] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:47:13.018Z] [INFO] [4059a5a0-8e44-11ec-a2e5-fb84fdecb883] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T09:47:13.069Z] [INFO] [4059a5a0-8e44-11ec-a2e5-fb84fdecb883] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:11:14.147Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:11:44.380Z] [INFO] [ad5984b0-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:11:44.460Z] [INFO] [ad5984b0-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:12:03.117Z] [INFO] [b88467b0-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:12:03.134Z] [INFO] [b88467b0-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [400] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:12:50.583Z] [INFO] [d4cf4b60-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:12:50.602Z] [INFO] [d4cf4b60-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [401] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:13:16.704Z] [INFO] [e4610af0-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:13:16.746Z] [INFO] [e4610af0-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:13:28.164Z] [INFO] [eb35da40-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:13:28.203Z] [INFO] [eb35da40-8e47-11ec-8030-ad28146d5d14] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:13:48.858Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:14:38.674Z] [INFO] [153c8500-8e48-11ec-ae2a-67a12598f673] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:14:38.720Z] [INFO] [153c8500-8e48-11ec-ae2a-67a12598f673] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [400] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:14:44.021Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:14:46.987Z] [INFO] [1a3122a0-8e48-11ec-b69c-b355263db0e0] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:14:47.029Z] [INFO] [1a3122a0-8e48-11ec-b69c-b355263db0e0] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [400] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:17:04.930Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:18:30.479Z] [INFO] [9f6727d0-8e48-11ec-9b28-936d39dbe9ce] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:19:33.372Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:19:35.922Z] [INFO] [c668f700-8e48-11ec-aaea-cbffd6137fa8] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:20:38.677Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:20:48.230Z] [INFO] [f1824a40-8e48-11ec-bc9e-af3b4381d310] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:21:03.419Z] [INFO] [fa9040b0-8e48-11ec-bc9e-af3b4381d310] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:26:26.467Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:26:32.486Z] [INFO] [beb39640-8e49-11ec-b440-2fc2488be9f8] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:26:32.537Z] [INFO] [bebb8580-8e49-11ec-b440-2fc2488be9f8] [SERVER] METHOD: [POST] - URL: [/admin/user] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:26:32.580Z] [INFO] [bebb8580-8e49-11ec-b440-2fc2488be9f8] [SERVER] METHOD: [POST] - URL: [/user] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:30:48.882Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:30:59.996Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:31:31.066Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T10:32:10.815Z] [INFO] [885c7ed0-8e4a-11ec-bb8a-3d56edfe9f58] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:32:10.898Z] [INFO] [88697720-8e4a-11ec-bb8a-3d56edfe9f58] [SERVER] METHOD: [POST] - URL: [/admin/user] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:32:10.939Z] [INFO] [88697720-8e4a-11ec-bb8a-3d56edfe9f58] [SERVER] METHOD: [POST] - URL: [/user] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:32:10.942Z] [INFO] [885c7ed0-8e4a-11ec-bb8a-3d56edfe9f58] [SERVER] METHOD: [POST] - URL: [/adminRegister] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:34:45.253Z] [INFO] [e46a0440-8e4a-11ec-bb8a-3d56edfe9f58] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:34:45.314Z] [INFO] [e46a0440-8e4a-11ec-bb8a-3d56edfe9f58] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T10:34:53.680Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-15T11:51:06.497Z] [INFO] [8f0c38f0-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:51:06.562Z] [INFO] [8f167220-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/admin/user] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:51:06.594Z] [INFO] [8f167220-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/user] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:51:06.597Z] [INFO] [8f0c38f0-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/adminRegister] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:52:17.258Z] [INFO] [b938bb30-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:52:17.273Z] [INFO] [b938bb30-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [401] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:52:35.811Z] [INFO] [c4487510-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:52:35.848Z] [INFO] [c4487510-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:52:41.749Z] [INFO] [c7d2d450-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:52:41.791Z] [INFO] [c7d2d450-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:53:59.691Z] [INFO] [f647aea0-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:53:59.731Z] [INFO] [f647aea0-8e55-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:55:53.909Z] [INFO] [3a5bf740-8e56-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:55:53.967Z] [INFO] [3a5bf740-8e56-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:56:36.711Z] [INFO] [53deba40-8e56-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-15T11:56:36.717Z] [INFO] [53deba40-8e56-11ec-9b57-0f35baf118c4] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [401] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:36:28.578Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T08:36:32.048Z] [INFO] [8af245d0-8f03-11ec-be73-814bff0598c8] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:36:32.135Z] [INFO] [8af245d0-8f03-11ec-be73-814bff0598c8] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:36:35.505Z] [INFO] [8d021300-8f03-11ec-be73-814bff0598c8] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:36:35.531Z] [INFO] [8d021300-8f03-11ec-be73-814bff0598c8] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:39:24.716Z] [INFO] [f1dd9fb0-8f03-11ec-be73-814bff0598c8] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:44:42.717Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T08:45:45.075Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T08:46:49.466Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T08:46:52.446Z] [INFO] [fcbba5c0-8f04-11ec-a491-21e62df66a85] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:47:11.556Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T08:47:15.689Z] [INFO] [0a963f70-8f05-11ec-9034-8b7bdce5f749] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:47:48.931Z] [INFO] [1e66ba20-8f05-11ec-9034-8b7bdce5f749] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:48:02.380Z] [INFO] [266ae1b0-8f05-11ec-9034-8b7bdce5f749] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:52:16.239Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T08:52:22.135Z] [INFO] [c13e3250-8f05-11ec-a9ad-8784b6e9293a] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:52:22.163Z] [INFO] [c13e3250-8f05-11ec-a9ad-8784b6e9293a] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:53:17.418Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T08:59:14.864Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T08:59:18.386Z] [INFO] [b9590f00-8f06-11ec-a7f9-5d292bf290dd] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:59:18.416Z] [INFO] [b9590f00-8f06-11ec-a7f9-5d292bf290dd] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:59:21.595Z] [INFO] [bb42dda0-8f06-11ec-a7f9-5d292bf290dd] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T08:59:21.654Z] [INFO] [bb42dda0-8f06-11ec-a7f9-5d292bf290dd] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:00:20.503Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T09:00:29.015Z] [INFO] [e371e230-8f06-11ec-a75b-2311d15eaa45] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:00:29.033Z] [INFO] [e371e230-8f06-11ec-a75b-2311d15eaa45] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:00:36.102Z] [INFO] [e7abe260-8f06-11ec-a75b-2311d15eaa45] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:00:36.156Z] [INFO] [e7abe260-8f06-11ec-a75b-2311d15eaa45] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:02:48.592Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T09:02:53.595Z] [INFO] [399f7fa0-8f07-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:02:53.620Z] [INFO] [399f7fa0-8f07-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:02:56.278Z] [INFO] [3b38e450-8f07-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:02:56.330Z] [INFO] [3b38e450-8f07-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:06:45.685Z] [INFO] [c3f59f40-8f07-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:06:45.719Z] [INFO] [c3f59f40-8f07-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:06:47.831Z] [INFO] [c53d3a70-8f07-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:06:47.861Z] [INFO] [c53d3a70-8f07-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:10:50.673Z] [INFO] [55fbd300-8f08-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:10:50.706Z] [INFO] [55fbd300-8f08-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:10:53.799Z] [INFO] [57d8d060-8f08-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:10:53.835Z] [INFO] [57d8d060-8f08-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:13:00.776Z] [INFO] [a387f770-8f08-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:13:00.836Z] [INFO] [a387f770-8f08-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:13:41.204Z] [INFO] [bba0ca30-8f08-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:13:41.253Z] [INFO] [bba0ca30-8f08-11ec-affa-7138003a595e] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:19:16.551Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T09:19:22.198Z] [INFO] [86e03140-8f09-11ec-8159-59035b5dfd92] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:19:22.282Z] [INFO] [86e03140-8f09-11ec-8159-59035b5dfd92] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [500] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T09:23:54.604Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T09:25:48.109Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T09:29:14.449Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T09:33:02.040Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T12:10:38.866Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T12:50:07.830Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T12:50:17.557Z] [INFO] [fe0eba30-8f26-11ec-8d28-6b388ca7407b] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:50:17.781Z] [INFO] [fe0eba30-8f26-11ec-8d28-6b388ca7407b] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:50:46.344Z] [INFO] [0f376d70-8f27-11ec-8d28-6b388ca7407b] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:50:46.379Z] [INFO] [0f376d70-8f27-11ec-8d28-6b388ca7407b] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:52:02.885Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T12:52:10.621Z] [INFO] [417313c0-8f27-11ec-9942-bff73f0bc5a6] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:52:10.652Z] [INFO] [417313c0-8f27-11ec-9942-bff73f0bc5a6] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:52:45.647Z] [INFO] [56539ee0-8f27-11ec-9942-bff73f0bc5a6] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:52:45.671Z] [INFO] [56539ee0-8f27-11ec-9942-bff73f0bc5a6] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:56:14.867Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T12:56:20.519Z] [INFO] [d6667c60-8f27-11ec-9bb5-a94a6cac62b3] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:56:20.553Z] [INFO] [d6667c60-8f27-11ec-9bb5-a94a6cac62b3] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:56:23.138Z] [INFO] [d7f64420-8f27-11ec-9bb5-a94a6cac62b3] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:56:23.163Z] [INFO] [d7f64420-8f27-11ec-9bb5-a94a6cac62b3] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:56:53.145Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T12:56:57.660Z] [INFO] [ec89c0b0-8f27-11ec-8c97-933705f8f5f9] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:56:57.685Z] [INFO] [ec89c0b0-8f27-11ec-8c97-933705f8f5f9] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:56:59.950Z] [INFO] [ede72dd0-8f27-11ec-8c97-933705f8f5f9] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T12:56:59.977Z] [INFO] [ede72dd0-8f27-11ec-8c97-933705f8f5f9] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:04:03.460Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:04:31.971Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:04:49.874Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:05:09.670Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:05:17.313Z] [INFO] [165a71e0-8f29-11ec-aebb-8fd2f2437db9] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:05:17.345Z] [INFO] [165a71e0-8f29-11ec-aebb-8fd2f2437db9] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:05:20.746Z] [INFO] [18669590-8f29-11ec-aebb-8fd2f2437db9] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:05:20.767Z] [INFO] [18669590-8f29-11ec-aebb-8fd2f2437db9] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:06:33.274Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:07:13.710Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:07:26.992Z] [INFO] [63a60ae0-8f29-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:07:27.030Z] [INFO] [63a60ae0-8f29-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:08:22.048Z] [INFO] [847712f0-8f29-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:08:22.126Z] [INFO] [847712f0-8f29-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/adminRegister] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:08:30.429Z] [INFO] [8975e9c0-8f29-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:08:30.493Z] [INFO] [8975e9c0-8f29-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:16:11.156Z] [INFO] [9c131f20-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/admin/adminRegister] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:16:11.234Z] [INFO] [9c1f5420-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/admin/user] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:16:11.256Z] [INFO] [9c1f5420-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/user] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:16:11.261Z] [INFO] [9c131f20-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/adminRegister] - STATUS: [202] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:16:39.016Z] [INFO] [acae5f70-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:16:39.036Z] [INFO] [acae5f70-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [404] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:16:43.419Z] [INFO] [af4e5eb0-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/admin/user/verify] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:16:43.479Z] [INFO] [af4e5eb0-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/user/verify] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:17:32.283Z] [INFO] [cc6e6cb0-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:17:32.354Z] [INFO] [cc6e6cb0-8f2a-11ec-abbf-e73aad7ab0af] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:18:24.897Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:18:30.516Z] [INFO] [ef239e10-8f2a-11ec-a73c-d590e6bf7d9c] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:18:30.621Z] [INFO] [ef239e10-8f2a-11ec-a73c-d590e6bf7d9c] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:18:35.313Z] [INFO] [f2000a10-8f2a-11ec-a73c-d590e6bf7d9c] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:18:35.325Z] [INFO] [f2000a10-8f2a-11ec-a73c-d590e6bf7d9c] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:18:54.902Z] [INFO] [fdacee50-8f2a-11ec-a73c-d590e6bf7d9c] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:18:54.961Z] [INFO] [fdacee50-8f2a-11ec-a73c-d590e6bf7d9c] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [400] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:19:42.972Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:19:48.677Z] [INFO] [1dba5840-8f2b-11ec-b773-2163a44882bb] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:19:48.708Z] [INFO] [1dba5840-8f2b-11ec-b773-2163a44882bb] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:20:04.996Z] [INFO] [27746d30-8f2b-11ec-b773-2163a44882bb] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:20:05.027Z] [INFO] [27746d30-8f2b-11ec-b773-2163a44882bb] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:20:25.793Z] [INFO] [33d9f310-8f2b-11ec-b773-2163a44882bb] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:20:25.827Z] [INFO] [33d9f310-8f2b-11ec-b773-2163a44882bb] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [400] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:22:24.928Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:22:38.188Z] [INFO] [82c384a0-8f2b-11ec-ad3e-d9aad2daa0a2] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:22:38.215Z] [INFO] [82c384a0-8f2b-11ec-ad3e-d9aad2daa0a2] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:22:47.222Z] [INFO] [88264d60-8f2b-11ec-ad3e-d9aad2daa0a2] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:22:47.247Z] [INFO] [88264d60-8f2b-11ec-ad3e-d9aad2daa0a2] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:22:57.489Z] [INFO] [8e44c500-8f2b-11ec-ad3e-d9aad2daa0a2] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:22:57.528Z] [INFO] [8e44c500-8f2b-11ec-ad3e-d9aad2daa0a2] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [400] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:24:30.442Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:24:38.870Z] [INFO] [cab18500-8f2b-11ec-a640-05f5af0a4cad] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:24:38.900Z] [INFO] [cab18500-8f2b-11ec-a640-05f5af0a4cad] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:24:41.416Z] [INFO] [cc36c570-8f2b-11ec-a640-05f5af0a4cad] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:24:41.444Z] [INFO] [cc36c570-8f2b-11ec-a640-05f5af0a4cad] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:24:44.367Z] [INFO] [cdf935f0-8f2b-11ec-a640-05f5af0a4cad] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:24:44.405Z] [INFO] [cdf935f0-8f2b-11ec-a640-05f5af0a4cad] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [400] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:26:04.575Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:26:30.296Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:26:40.288Z] [INFO] [1310bdc0-8f2c-11ec-aad2-8ba2b6dfff68] [SERVER] METHOD: [POST] - URL: [/admin/service] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:26:40.315Z] [INFO] [1310bdc0-8f2c-11ec-aad2-8ba2b6dfff68] [SERVER] METHOD: [POST] - URL: [/service] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:26:43.309Z] [INFO] [14de2ac0-8f2c-11ec-aad2-8ba2b6dfff68] [SERVER] METHOD: [POST] - URL: [/admin/adminLoginOtp] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:26:43.334Z] [INFO] [14de2ac0-8f2c-11ec-aad2-8ba2b6dfff68] [SERVER] METHOD: [POST] - URL: [/adminLoginOtp] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:27:09.008Z] [INFO] [242fad00-8f2c-11ec-aad2-8ba2b6dfff68] [SERVER] METHOD: [POST] - URL: [/admin/adminLogin] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:27:09.067Z] [INFO] [242fad00-8f2c-11ec-aad2-8ba2b6dfff68] [SERVER] METHOD: [POST] - URL: [/adminLogin] - STATUS: [200] - IP: [::ffff:127.0.0.1] 
+[2022-02-16T13:31:01.699Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:31:53.106Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:33:42.594Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:33:56.178Z] [INFO] [] [SERVER] Server is running localhost:3000 
+[2022-02-16T13:35:21.276Z] [INFO] [] [SERVER] Server is running localhost:3000 
